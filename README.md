@@ -41,21 +41,21 @@ Three main entities are implemented:
 
 Install Dependencies
 
-* Backend:
+Backend:
 
-cd backend
+*cd backend
 
-npm install
+* npm install
 
-npm start
+* npm start
 
-* Frontend:
+Frontend:
 
-cd frontend
+* cd frontend
 
-npm install
+* npm install
 
-npm run dev
+* npm run dev
 
 Live Demo 
 
