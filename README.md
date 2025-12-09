@@ -4,7 +4,7 @@ YumReels is a social-media style web application inspired by Instagram Reels, bu
 
 Features
 
-Reel-scroll UI with smooth vertical video playback similar to Instagram Reels
+* Reel-scroll UI with smooth vertical video playback similar to Instagram Reels
 
 Like and Save functionality for user engagement
 
