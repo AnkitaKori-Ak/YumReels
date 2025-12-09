@@ -6,17 +6,17 @@ Features
 
 * Reel-scroll UI with smooth vertical video playback similar to Instagram Reels
 
-Like and Save functionality for user engagement
+* Like and Save functionality for user engagement
 
-Role-based features for User and Food Partner account types
+* Role-based features for User and Food Partner account types
 
-Food Partners can upload, manage, and showcase food reels and their food items
+* Food Partners can upload, manage, and showcase food reels and their food items
 
-Users can navigate from reels to Food Partner store pages showcasing available food items
+* Users can navigate from reels to Food Partner store pages showcasing available food items
 
-Secure authentication using JWT with HttpOnly cookies
+* Secure authentication using JWT with HttpOnly cookies
 
-Responsive frontend optimized for fast media rendering
+* Responsive frontend optimized for fast media rendering
 
 Tech Stack
 
@@ -41,7 +41,7 @@ Three main entities are implemented:
 
 Install Dependencies
 
-Backend:
+* Backend:
 
 cd backend
 
@@ -49,7 +49,7 @@ npm install
 
 npm start
 
-Frontend:
+* Frontend:
 
 cd frontend
 
@@ -59,18 +59,18 @@ npm run dev
 
 Live Demo 
 
-Frontend URL: zomato-food-reels-project.vercel.app
+* Frontend URL: zomato-food-reels-project.vercel.app
 
-Backend API URL: https://zomato-foodreels.onrender.com
+* Backend API URL: https://zomato-foodreels.onrender.com
 
 Future Enhancements
 
-Comment feature on reels
+* Comment feature on reels
 
-Personalized reel recommendations
+* Personalized reel recommendations
 
-Push notifications
+* Push notifications
 
-Analytics for Food Partners
+* Analytics for Food Partners
 
 
